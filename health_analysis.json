@@ -50,6 +50,55 @@
           "Maintain a healthy weight"
         ],
         "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+      },
+      {
+        "name": "Beach1",
+        "imagesrc":"https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg",
+        "symptoms": [
+          "Headaches",
+          "Shortness of breath",
+          "Chest pain",
+          "Dizziness",
+          "Blurred or double vision"
+        ],
+        "prevention": [
+          "Reduce salt intake",
+          "Exercise regularly",
+          "Maintain a healthy weight"
+        ],
+        "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+      },
+      {
+        "name": "Beach2",
+        "imagesrc":"https://i.pinimg.com/736x/ba/92/7f/ba927ff34cd961ce2c184d47e8ead9f6.jpg",
+        "symptoms": [
+          "Headaches",
+          "Shortness of breath",
+          "Chest pain",
+          "Dizziness",
+          "Blurred or double vision"
+        ],
+        "prevention": [
+          "Reduce salt intake",
+          "Exercise regularly",
+          "Maintain a healthy weight"
+        ],
+        "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+      },
+      {
+        "name": "Beach",
+        "imagesrc1":"https://static-images.vnncdn.net/files/publish/2022/12/26/quick-guide-to-nha-trang-1075.jpg",
+        "imagesrc2":"https://imageio.forbes.com/specials-images/imageserve/938718364/Ha-Long-Bay/0x0.jpg?format=jpg&crop=2737,1824,x0,y0,safe&width=960"
+      },
+      {
+        "name": "Temple",
+        "imagesrc1":"https://cdn.britannica.com/01/97401-004-9DAA04EB/Central-Hanoi.jpg",
+        "imagesrc2":"https://cdn.britannica.com/01/97401-004-9DAA04EB/Central-Hanoi.jpg"
+      },
+      {
+        "name": "Country",
+        "imagesrc1":"https://media.istockphoto.com/id/1293422246/photo/sunset-landscape-of-bai-dinh-temple-complex-from-above.jpg?s=612x612&w=0&k=20&c=-IiyXAJhQFPN_wiccHyIyY0vC71_O1SJ1FGOtvK8JsE=",
+        "imagesrc2":"https://localvietnam.com/wp-content/uploads/2021/08/one-pillar-pagoda-2.jpg"
       }
     ]
   }
